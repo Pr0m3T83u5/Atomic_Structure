@@ -13,7 +13,7 @@ This is an old project of mine that I worked on during the 2024 semester break. 
 <table border="0">
  <tr>
     <td><b style="font-size:30px">Density Plot for n=2, l=1, m=0 </b></td>
-    <td><b style="font-size:30px">Density Plot for n=3, l=2, m=1  2</b></td>
+    <td><b style="font-size:30px">Density Plot for n=3, l=2, m=1 </b></td>
  </tr>
  <tr>
     <td><img src="Images/n2_l1_m0.png" width="400"/></td>
