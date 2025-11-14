@@ -3,7 +3,7 @@
 
 
 <!-- Heading -->
-# 📝 Atomic orbital probability density plots
+# 📝 Atomic Orbital Probability Density Plots
 
 This is an old project of mine that I worked on during the 2024 semester break. Here, I use Matplotlib in Python to graph these electron density plots and NumPy with Sympy to do the necessary algebraic calculations.  
 
@@ -33,7 +33,7 @@ This is an old project of mine that I worked on during the 2024 semester break. 
 ### Getting Started
 1. Clone the repo
    ```sh
-   git clone https://github.com/Pr0m3T83u5/KeeperApp.git
+   git clone https://github.com/Pr0m3T83u5/Electron_Density_Plots.git
    ```
 
 2. **Install Dependencies**
